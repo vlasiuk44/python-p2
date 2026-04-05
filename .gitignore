@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+*.pyo
+*.db
+.venv/
+.env
+auth_service/.env
+bot_service/.env
